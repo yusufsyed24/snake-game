@@ -31,6 +31,4 @@ Play it now and relive the nostalgia! 🚀
 
 "Just like the old days, but better." 🎮✨
 
-New chat
-
 
