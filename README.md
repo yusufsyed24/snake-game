@@ -1,5 +1,6 @@
 # snake-game
 🐍 Classic Snake Game with a Modern Twist
+</br>
 Relive the nostalgia of the iconic Snake game from the early days of mobile gaming, now enhanced with smooth animations, numbered segments, and a sleek dark theme!
 
 🎮 Features
