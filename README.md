@@ -27,7 +27,7 @@ Play it now and relive the nostalgia! 🚀
 🔹 Built with pure HTML, CSS, and JavaScript
 🔹 No frameworks, no dependencies—just classic web development
 
-▶ Try it out! (Replace with your live demo link)
+▶ Try it out! (https://yusufsyed24.github.io/snake-game/)
 
 "Just like the old days, but better." 🎮✨
 
